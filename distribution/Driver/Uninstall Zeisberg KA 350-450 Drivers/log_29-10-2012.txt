@@ -1,0 +1,13 @@
+CDM Driver Uninstaller
+Auto-generated log file
+29-10-2012
+Device: FTDIBUS\VID_0403+PID_C2D8+AUD01A\0000...Removed
+Device: USB\VID_0403&PID_C2D8\AUD01...Removed
+Deleting INF Files
+pnputil.exe /f /d oem22.inf0
+Successfully removed.pnputil.exe /f /d oem23.inf0
+Successfully removed.pnputil.exe /f /d oem52.inf0
+Successfully removed.pnputil.exe /f /d oem53.inf0
+Successfully removed.Done
+Uninstall Complete!
+
